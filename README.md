@@ -40,11 +40,11 @@ Elixir runs on the Erlang VM (BEAM), which is famous for being extremely reliabl
 
 ## Table of Contents
 
-1. Basics
+1. Basics Types
 
-2. Collections
+2. Atoms and Strings
 
-3. Enum
+3. List and Tuples
 
 4. Pattern Matching
 
@@ -52,19 +52,25 @@ Elixir runs on the Erlang VM (BEAM), which is famous for being extremely reliabl
 
 6. Functions
 
-7. Pipe Operator
+7. Keyword lists and Maps
 
-8. Modules
+8. Modules and Functions
 
-9. Mix
+9. Recursion
 
-10. Sigils
+10. Enumerables
 
-11. Comprehensions
+11. Pip Operators
 
-12. Strings
+12. Comprehensions
 
-13. Date and Time
+This repository will help you understand core concepts and develop your Elixir skills through easy-to-follow examples, such as building a game, a calculator, and performing list operations.
+
+
+
+
+
+
 
 
 
